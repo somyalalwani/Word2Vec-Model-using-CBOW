@@ -24,3 +24,7 @@ Command / Code to get the embeddings is ->
 
 ## Part 2
 Top 10 words and closest words to `camera` and the `tsne` and `scatter plot` and `comparison with the embeddings of gensim` are in both the `ipynb` file for both `cbow` model.
+
+
+## Training Corpus
+http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Electronics_5.json.gz
